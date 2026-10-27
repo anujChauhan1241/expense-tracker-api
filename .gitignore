@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Local databases
+expenses.db
+instance/*.db
+*.sqlite
+*.sqlite3
+
+# Environment / editor
+.vscode/
